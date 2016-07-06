@@ -1,0 +1,12 @@
+C:\Users\jgallagher\Dropbox\TextBasedSurvival\TheTrial_Alpha\TheTrial_Alpha\bin\Debug\TheTrial_Alpha.exe.config
+C:\Users\jgallagher\Dropbox\TextBasedSurvival\TheTrial_Alpha\TheTrial_Alpha\obj\Debug\TheTrial_Alpha.csprojResolveAssemblyReference.cache
+C:\Users\jgallagher\Dropbox\TextBasedSurvival\TheTrial_Alpha\TheTrial_Alpha\obj\Debug\TheTrial_Alpha.Properties.Resources.resources
+C:\Users\jgallagher\Dropbox\TextBasedSurvival\TheTrial_Alpha\TheTrial_Alpha\obj\Debug\TheTrial_Alpha.csproj.GenerateResource.Cache
+C:\Users\jgallagher\Dropbox\TextBasedSurvival\TheTrial_Alpha\TheTrial_Alpha\bin\Debug\TheTrial_Alpha.exe
+C:\Users\jgallagher\Dropbox\TextBasedSurvival\TheTrial_Alpha\TheTrial_Alpha\bin\Debug\TheTrial_Alpha.pdb
+C:\Users\jgallagher\Dropbox\TextBasedSurvival\TheTrial_Alpha\TheTrial_Alpha\obj\Debug\TheTrial_Alpha.TheTrial_Alpha.resources
+C:\Users\jgallagher\Dropbox\TextBasedSurvival\TheTrial_Alpha\TheTrial_Alpha\obj\Debug\TheTrial_Alpha.exe
+C:\Users\jgallagher\Dropbox\TextBasedSurvival\TheTrial_Alpha\TheTrial_Alpha\obj\Debug\TheTrial_Alpha.pdb
+C:\Users\amazinglarry\Dropbox\TextBasedSurvival\TheTrial_Alpha\TheTrial_Alpha\bin\Debug\TheTrial_Alpha.exe.config
+C:\Users\amazinglarry\Dropbox\TextBasedSurvival\TheTrial_Alpha\TheTrial_Alpha\obj\Debug\TheTrial_Alpha.exe
+C:\Users\amazinglarry\Dropbox\TextBasedSurvival\TheTrial_Alpha\TheTrial_Alpha\obj\Debug\TheTrial_Alpha.pdb
